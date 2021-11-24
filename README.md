@@ -4,7 +4,7 @@
   <a href="https://github.com/the-stas"><img src="https://github-readme-stats.vercel.app/api?username=the-stas&hide_border=true&show_icons=true" alt="the-stas' github stats"></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=the-stas.the-stas)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=the-stas.visitor-badge&left_text=My%20Page%20Visitors)
 
 <!--
 **Semigradsky/Semigradsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
