@@ -1,7 +1,4 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Stas 👋 I'm a 🚀 Frontend developer">
-</p>
 
 <p align="center">
   <a href="https://github.com/the-stas"><img src="https://github-readme-stats.vercel.app/api?username=the-stas&hide_border=true&show_icons=true" alt="the-stas' github stats"></a>
@@ -9,15 +6,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=the-stas.visitor-badge&left_text=My%20Page%20Visitors)
 
-<!--
-**Semigradsky/Semigradsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/the-stas?template=classic&languages=1&lines=1&achievements=1&discussions=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FKiev)
