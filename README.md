@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Stas 👋 I'm a 🚀 Frontend developer">
+</p>
 
 <p align="center">
   <a href="https://github.com/the-stas"><img src="https://github-readme-stats.vercel.app/api?username=the-stas&hide_border=true&show_icons=true" alt="the-stas' github stats"></a>
